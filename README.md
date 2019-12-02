@@ -8,15 +8,16 @@ Stay tuned, still much more to come. Join us if you feel passionate about it.
 
 A stable, open source, decentralised coin which is not pegged to any metal or fiat to retain its value, and market ripple free.
 
-<b>Problem with money:</b>
+<b>Problem with money:</b></br>
 Manipulations, speculations and devaluation of money in favour of ‘few’. Some have ‘hard earned’ and others can simply print. Bailouts, inside tradings.
 
-<b>Solutions so far:  </b>
-Bitcoin: bitcoin has solved ‘third party’ trust requirements to send/receive money. btc is not good for routine transactions and storing value.
-USDT: in addition to Btc, Has solved volatility issues. USDT is has a lot of trust issues because it is centralised.
-Maker DAI: Maker DAI has tried to fix the issue but they fall into FIAT trap at the end, by pegging it to USD.
+<b>Solutions so far:  </b></br>
+<b>Bitcoin:</b> bitcoin has solved ‘third party’ trust requirements to send/receive money. btc is not good for routine transactions and storing value.
+<b>USDT: </b>in addition to B</b>tc, Has solved volatility issues. USDT is has a lot of trust issues because it is centralised.
+<b>Maker DAI:</b> Maker DAI has tried to fix the issue but they fall into FIAT trap at the end, by pegging it to USD.
 
-Our solution: As you see bitcoin and tether are not focusing the real issues related to wealth. Btc is highly volatile and tether is pegged to USD and centralised , DAI is decentralised and pegged to fiat,  on FIAT people have loose trust. So, “A stable, open source, decentralised coin which is not pegged to any metal or fiat  to retain its value.” Is need of the hour. 
+<b>Our solution: </b></br>
+As you see bitcoin and tether are not focusing the real issues related to wealth. Btc is highly volatile and tether is pegged to USD and centralised , DAI is decentralised and pegged to fiat,  on FIAT people have loose trust. So, “A stable, open source, decentralised coin which is not pegged to any metal or fiat  to retain its value.” Is need of the hour. 
 
 Currently, SHIELD is working with finances and technical people to develop its operational structure setting maker DAI as benchmark, we are committed to ‘reward’ the people who will bring value to SoV in any way (like: funding, investing, holding, developing)and it will be structured in SoV open contract.
 
