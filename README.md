@@ -29,6 +29,6 @@ This is life time opportunity for you all to join, its like being first at BTC, 
 
 So All of you are invited and don't feel FOMO later. Just think DAI has not launched and we are running campaign for DAI, if you didn't take a chance, you will regret later,  Here at SHIELD, we are starting from DAI and making it even better and immune to fiat system and its vulnerabilities.
 
-Youtube icon promo: https://www.youtube.com/watch?v=EUtGcZlaDJs
-Twitter:https://twitter.com/shieldspprt
-pitchdeck:http://www.shield.support/pd.pdf
+Youtube icon promo: https://www.youtube.com/watch?v=EUtGcZlaDJs </br>
+Twitter:https://twitter.com/shieldspprt </br>
+pitchdeck:http://www.shield.support/pd.pdf </br>
