@@ -1,10 +1,11 @@
-# ataleeq.github.io
-www.shield.support, a shield to save and keep consistant value of 'earned value'.<br>
-SoV is a cryptocoin developed by SHIELD as an open source entity.<br>
+# SHIELD
+www.shield.support </br>
+a shield to save and keep consistant value of 'earned value'.<br>
+<b>SoV</b> is a cryptocoin developed by SHIELD as an open source entity.<br>
 
 Stay tuned, still much more to come. Join us if you feel passionate about it.
 
-<b>SoV coin | Store of Value coin</b>
+<b>SoV Coin | Store of Value</b> 
 
 A stable, open source, decentralised coin which is not pegged to any metal or fiat to retain its value, and market ripple free.
 
