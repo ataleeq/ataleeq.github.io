@@ -4,14 +4,14 @@ SoV is a cryptocoin developed by SHIELD as an open source entity.<br>
 
 Stay tuned, still much more to come. Join us if you feel passionate about it.
 
-SoV coin | Store of Value coin
+<b>SoV coin | Store of Value coin</b>
 
 A stable, open source, decentralised coin which is not pegged to any metal or fiat to retain its value, and market ripple free.
 
-Problem with money:
+<b>Problem with money:</b>
 Manipulations, speculations and devaluation of money in favour of ‘few’. Some have ‘hard earned’ and others can simply print. Bailouts, inside tradings.
 
-Solutions so far:  
+<b>Solutions so far:  </b>
 Bitcoin: bitcoin has solved ‘third party’ trust requirements to send/receive money. btc is not good for routine transactions and storing value.
 USDT: in addition to Btc, Has solved volatility issues. USDT is has a lot of trust issues because it is centralised.
 Maker DAI: Maker DAI has tried to fix the issue but they fall into FIAT trap at the end, by pegging it to USD.
