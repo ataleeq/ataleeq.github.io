@@ -1,25 +1,25 @@
 # SHIELD
 www.shield.support </br>
-a shield to save and keep consistant value of 'earned value'.<br>
-<b>SoV</b> is a cryptocoin developed by SHIELD as an open source entity.<br>
+a shield to save and keep consistant value of 'earned value'.</br>
+<b>SoV</b> is a cryptocoin developed by SHIELD as an open source entity.</br>
 
-Stay tuned, still much more to come. Join us if you feel passionate about it.
+Stay tuned, still much more to come. Join us if you feel passionate about it.</br>
 
 <b>SoV Coin | Store of Value</b> 
 
-A stable, open source, decentralised coin which is pegged to global economy models such as CPI to fight manipulations, devaluatoins, news and demand/supply effect on currency value.
+A stable, open source, decentralised coin which is pegged to global economy models such as CPI to fight manipulations, devaluatoins, news and demand/supply effect on currency value.</br>
 
 <b>Our solution: </b></br>
-Self sufficient financial system without any human interaction, a better version of Bitcoin in terms of openness, value and operations. A better world correlated 'value' determining model, transaction cost adjusting model and a better model to support stakeholders.
+Self sufficient financial system without any human interaction, a better version of Bitcoin in terms of openness, value and operations. A better world correlated 'value' determining model, transaction cost adjusting model and a better model to support stakeholders.</br>
 
-A coin where anyone can earn startus of founder and stakeholder simply by supporting the system.
+A coin where anyone can earn startus of founder and stakeholder simply by supporting the system.</br>
 
-OPEx (Open Exchange)
-An exchange like platfrom where experienced traders and investors can share their recipie and beginners can use that recipe by paying fee, sharing profit, both or none of these. 
+<b>OPEx (Open Exchange)</b>
+An exchange like platfrom where experienced traders and investors can share their recipie and beginners can use that recipe by paying fee, sharing profit, both or none of these. </br>
 
-So All of you are invited and don't feel FOMO later. At SHIELD, we are starting from scratch and making it better and immune to fiat and crypto systems and their vulnerabilities.
+So All of you are invited and don't feel FOMO later. At SHIELD, we are starting from scratch and making it better and immune to fiat and crypto systems and their vulnerabilities.</br>
 
-Landing Page: www.shield.support 
+Landing Page: www.shield.support </br>
 Youtube icon promo: https://www.youtube.com/watch?v=EUtGcZlaDJs </br>
 Twitter:https://twitter.com/shieldspprt </br>
 pitchdeck:http://www.shield.support/pd.pdf </br>
