@@ -1,26 +1,23 @@
 # SHIELD
-www.shield.support </br>
+</br>
 a shield to save and keep consistant value of 'earned value'.</br>
-<b>SoV</b> is a cryptocoin developed by SHIELD as an open source entity.</br>
+<b>BATH</b> is a crytpo token developed by SHIELD as an open source entity.</br>
 
 Stay tuned, still much more to come. Join us if you feel passionate about it.</br>
 
-<b>SoV Coin | Store of Value</b> 
+<b>BATH Coin | Growing and stable at the same time</b> 
 
-A stable, open source, decentralised coin which is pegged to global economy models such as CPI to fight manipulations, devaluatoins, news and demand/supply effect on currency value.</br>
+A stable, open source, decentralised coin which is not pegged to any fiat, metal or math calculations. BATH is stable in hard times and greener in good times. By Holding BATH, one can earn Bitcoin and BATH, whichever he likes more.</br>
 
 <b>Our solution: </b></br>
-Self sufficient financial system without any human interaction, a better version of Bitcoin in terms of openness, value and operations. A better world correlated 'value' determining model, transaction cost adjusting model and a better model to support stakeholders.</br>
+Self sufficient financial system without any human interaction, a better version of Bitcoin in terms of openness, value and operations. A better 'value' determining model, transaction cost adjusting model and a better model to support stakeholders.</br>
 
-A coin where anyone can earn startus of founder and stakeholder simply by supporting the system.</br>
-
-<b>OPEx (Open Exchange)</b>
-An exchange like platfrom where experienced traders and investors can share their recipie and beginners can use that recipe by paying fee, sharing profit, both or none of these. </br>
+A coin where anyone can earn founder-status by supporting the system.</br>
 
 So All of you are invited and don't feel FOMO later. At SHIELD, we are starting from scratch and making it better and immune to fiat and crypto systems and their vulnerabilities.</br>
 
-Landing Page: www.shield.support </br>
-Youtube icon promo: https://www.youtube.com/watch?v=EUtGcZlaDJs </br>
-Twitter:https://twitter.com/shieldspprt </br>
-pitchdeck:http://www.shield.support/pd.pdf </br>
+//Landing Page: www.shield.support </br>
+//Youtube icon promo: https://www.youtube.com/watch?v=EUtGcZlaDJs </br>
+//Twitter:https://twitter.com/shieldspprt </br>
+//pitchdeck:http://www.shield.support/pd.pdf </br>
 
