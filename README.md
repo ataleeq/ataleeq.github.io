@@ -16,8 +16,5 @@ A coin where anyone can earn founder-status by supporting the system.</br>
 
 So All of you are invited and don't feel FOMO later. At SHIELD, we are starting from scratch and making it better and immune to fiat and crypto systems and their vulnerabilities.</br>
 
-//Landing Page: www.shield.support </br>
-//Youtube icon promo: https://www.youtube.com/watch?v=EUtGcZlaDJs </br>
-//Twitter:https://twitter.com/shieldspprt </br>
-//pitchdeck:http://www.shield.support/pd.pdf </br>
+Twitter:https://twitter.com/shieldspprt </br>
 
